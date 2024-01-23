@@ -13,5 +13,14 @@ root.render(
     <div className="App">
       <Weather />
     </div>
+    <small>
+          <a
+            href="https://github.com/Nooshin0962/weather-react"
+            target="_blank" rel="noreferrer"
+          >
+            open-source
+          </a>{" "}
+          by Nooshin Semsarilar
+        </small>
   </StrictMode>
 );
